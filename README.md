@@ -16,8 +16,8 @@
    <h3>⚠️ Requisitos</h3>
     <ul>
      <li>La instalación solo es válida para máquinas físicas y no virtuales.</li>
-     <li>La instalación es compatible solo con gpu AMD o Intel.</li>
-     <li>La instalación se debe realizar en un sistema Arch Linux limpio, des de la tty.</li>
+     <li>Compatible solo con gpu AMD o Intel.</li>
+     <li>El proceso se debe realizar en un sistema Arch Linux limpio, des de la tty.</li>
     </ul>
    <hr>
    <h3>🐦 Información</h3>
