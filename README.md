@@ -39,7 +39,7 @@
    </ol>
    <p><strong>¡Atención!</strong> Debes tener en cuenta que durante la instalación es posible que se te pida que introduzcas la contraseña como 'sudo'. Debes introducirla y presionar enter para que puedas proseguir la instalación de forma correcta.</p>
    <p>Debes tener en cuenta que esta instalación no es rápida, por lo que se demorará un tiempo en completarse.</p>
-   <!--<p>Te dejo por aquí un vídeo por si quieres realizar la instalación de una forma más guiada: ""</p>-->
+   <p>Te dejo por aquí un vídeo por si quieres realizar la instalación de una forma más guiada: https://youtu.be/LoMNQZXLZfI</p>
    <hr>
    <h3>❌ Posibles problemas y soluciones</h3>
   <h4>En esta sección se abarcarán los posibles problemas y soluciones que vayan surgiendo:</h4>
