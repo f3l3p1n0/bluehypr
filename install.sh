@@ -170,7 +170,7 @@ function paquetes() {
 
     # rofi sddm zsh lsd bat zsh-syntax-highlighting zsh-autosuggestions swayidle xautolock hyprpaper waybar polkit polkit-gnome nemo pavucontrol slurp grim swappy neofetch megatools wget
     printf "Instalando paquetes pacman..."
-    sudo pacman -S --noconfirm rofi sddm zsh lsd bat zsh-syntax-highlighting zsh-autosuggestions swayidle xautolock hyprpaper waybar polkit polkit-gnome nemo pavucontrol slurp grim swappy neofetch megatools wget > /dev/null 2>&1
+    sudo pacman -S --noconfirm rofi sddm zsh lsd bat zsh-syntax-highlighting zsh-autosuggestions swayidle xautolock hyprpaper waybar polkit polkit-gnome nemo pavucontrol slurp grim swappy neofetch megatools wget unzip > /dev/null 2>&1
     echo -e "\e[32mOK\e[0m"
     
     # tema para sddm
