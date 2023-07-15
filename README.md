@@ -8,7 +8,6 @@
    <h3>¡Saludos! ¡Gracias por venir! 🩵</h3>
    <p>
     ¡Bienvenid@ a mis archivos de configuración de Hyprland!<br>
-    ¿Estás buscando la manera de poder personalizar el compositor Hyprland?<br>
     En este repositorio encontrarás todos mis archivos de configuración y aprenderás a como solucionar algunos errores que puedan suceder en el proceso.<br>
     Siéntete libre de tomar cualquier cosa de aquí, ¡solo recuerda darme crédito por ello! :)  
    </p>
