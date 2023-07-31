@@ -151,13 +151,6 @@ function requerimientos() {
     cd yay-git
     makepkg --noconfirm -si > /dev/null 2>&1
     echo -e "\e[32mOK\e[0m"
-
-    # paru
-    printf "Paru........................."
-    git clone https://aur.archlinux.org/paru.git > /dev/null 2>&1
-    cd paru
-    makepkg --noconfirm -si > /dev/null 2>&1
-    echo -e "\e[32mOK\e[0m"
 }
 
 # INSTALACION DE TODOS LOS PAQUETES
@@ -175,7 +168,7 @@ function paquetes() {
     
     # tema para sddm
     printf "Descargando tema sddm........"
-    paru -S --noconfirm sddm-theme-sugar-candy-git > /dev/null 2>&1
+    yay -S --noconfirm sddm-theme-sugar-candy-git > /dev/null 2>&1
     echo -e "\e[32mOK\e[0m"
 }
 
