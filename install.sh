@@ -158,17 +158,12 @@ function requerimientos() {
 function paquetes() {
     # hyprland kitty wl-clip-persist swaylock-effects
     printf "Instalando paquetes yay......"
-    yay -S --noconfirm hyprland kitty wl-clip-persist swaylock-effects > /dev/null 2>&1
+    yay -S --noconfirm hyprland kitty wl-clip-persist swaylock-effects sddm-theme-sugar-candy-git > /dev/null 2>&1
     echo -e "\e[32mOK\e[0m"
 
     # rofi sddm zsh lsd bat zsh-syntax-highlighting zsh-autosuggestions swayidle xautolock hyprpaper waybar polkit polkit-gnome nemo pavucontrol slurp grim swappy neofetch megatools wget
     printf "Instalando paquetes pacman..."
     sudo pacman -S --noconfirm rofi sddm zsh lsd bat zsh-syntax-highlighting zsh-autosuggestions swayidle xautolock hyprpaper waybar polkit polkit-gnome nemo pavucontrol slurp grim swappy neofetch megatools wget unzip > /dev/null 2>&1
-    echo -e "\e[32mOK\e[0m"
-    
-    # tema para sddm
-    printf "Descargando tema sddm........"
-    yay -S --noconfirm sddm-theme-sugar-candy-git > /dev/null 2>&1
     echo -e "\e[32mOK\e[0m"
 }
 
