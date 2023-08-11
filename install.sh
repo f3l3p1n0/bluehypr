@@ -31,7 +31,7 @@ function copia() {
     echo -e "\e[32mOK\e[0m"
 
     # neofetch
-    printf "Neofetch........................"
+    printf "Neofetch....................."
     rm -rf "$HOME/.config/neofetch" > /dev/null 2>&1
     mkdir "$HOME/.config/neofetch"
     cp -r $1/dotfiles/neofetch/* "$HOME/.config/neofetch/"
