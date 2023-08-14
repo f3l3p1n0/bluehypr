@@ -186,6 +186,7 @@ function finalizacion() {
 
 if [ $(whoami) != 'root' ]; then
     ruta=$(pwd)
+    sudo touch /tmp/hyprv.tmp
     autor
     mensaje
     requerimientos
