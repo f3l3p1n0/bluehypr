@@ -8,7 +8,7 @@
     "margin-left": 0,
     "margin-right": 0,
     "modules-left": ["custom/launcher", "custom/machines", "custom/archivos", "custom/playerctl", "custom/playerlabel"],
-    "modules-center": ["wlr/workspaces"],
+    "modules-center": ["hyprland/workspaces"],
     "modules-right": ["tray", "custom/randwall", "network", "pulseaudio", "clock"],
     // Modules configuration
   "clock": {
@@ -37,7 +37,7 @@
                 }
 },
 	
-	"wlr/workspaces": {
+	"hyprland/workspaces": {
         "active-only": false,
         "all-outputs": true,
         "disable-scroll": false,
