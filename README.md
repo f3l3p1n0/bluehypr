@@ -12,11 +12,10 @@
     Siéntete libre de tomar cualquier cosa de aquí, ¡solo recuerda darme crédito por ello! :)  
    </p>
    <hr>
-   <h3>⚠️ Requisitos</h3>
+   <h3>⚠️ Detalles a tener en cuenta</h3>
     <ul>
      <li>La instalación solo es válida para máquinas físicas y no virtuales.</li>
-     <li>Compatible solo con gpu AMD o Intel.</li>
-     <li>El proceso se debe realizar en un sistema Arch Linux limpio, des de la tty.</li>
+     <li>El proceso de instalación mediante el script, se debe realizar en un sistema Arch Linux limpio, des de la tty.</li>
     </ul>
    <hr>
    <h3>🐦 Información</h3>
