@@ -27,7 +27,7 @@
    ```
    ❗ Puedes instalar des del archivo requisitos.sh
    
-   <p>2️⃣ Instalar paquetes (Puedes instalar des del archivo requisitos.sh):</p>
+   <p>2️⃣ Instalar paquetes:</p>
 
    ```sh
     yay -S hyprland kitty wl-clip-persist swaylock-effects sddm-theme-sugar-candy-git &&
