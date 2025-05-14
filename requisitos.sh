@@ -43,6 +43,8 @@ sudo pacman -S --noconfirm \
   swappy \
   neofetch \
   wget \
-  unzip
+  unzip \
+  pamixer \
+  wl-clipboard
 
 echo "✅ Instalación completada correctamente."
