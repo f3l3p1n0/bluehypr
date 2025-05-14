@@ -162,15 +162,6 @@ function copia() {
     ((current_step++))
     update_progress
 
-    # Scripts
-    print_step "Configurando scripts"
-    mkdir -p "$HOME/.config/scripts"
-    cp -r $1/dotfiles/scripts/* "$HOME/.config/scripts"
-    chmod +x -R "$HOME/.config/scripts/"
-    echo -e " ${success_color}✓${reset_color}"
-    ((current_step++))
-    update_progress
-
     # Swappy
     print_step "Configurando Swappy"
     mkdir -p "$HOME/.config/swappy"
