@@ -18,7 +18,6 @@ yay -S --noconfirm \
   hyprland \
   kitty \
   wl-clip-persist \
-  swaylock-effects \
   sddm-theme-sugar-candy-git \
   megatools
 
@@ -31,12 +30,12 @@ sudo pacman -S --noconfirm \
   bat \
   zsh-syntax-highlighting \
   zsh-autosuggestions \
-  swayidle \
+  hypridle \
   hyprpaper \
+  hyprlock \
   waybar \
   polkit \
   polkit-gnome \
-  nemo \
   pavucontrol \
   slurp \
   grim \
