@@ -1,7 +1,7 @@
  <html>
   <body>
    <p align="center"><img src='https://i.postimg.cc/2SNJjCGs/bluehypr.png'></p>
-   <img src='https://i.postimg.cc/9QjCX425/swappy-20250514-133039.png'><br>
+   <img src='https://i.postimg.cc/3x7NSfdv/swappy-20250514-133317.png'><br>
    
    <h3>¡Saludos! ¡Gracias por venir! 🩵</h3>
    <p>¡Bienvenid@ a mis archivos de configuración de Hyprland!</p>
