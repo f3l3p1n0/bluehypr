@@ -40,7 +40,7 @@ sudo pacman -S --noconfirm \
   slurp \
   grim \
   swappy \
-  neofetch \
+  fastfetch \
   wget \
   unzip \
   pamixer \
