@@ -76,9 +76,6 @@
    <br>
    
    <h3>👤 Autor</h3>
-   <p>Los dotfiles no han sido originados al 100% pero si configurados por mi, <a href="https://github.com/f3l3p1n0">f3l3p1n0</a>.</p>
-   <br>
-   <a href="https://www.linkedin.com/in/marc-mañé-lobato/">Linkedin</a><br>
-   
+   <p>Los dotfiles no han sido originados al 100% pero si configurados por mi, <a href="https://github.com/f3l3p1n0">f3l3p1n0</a>.</p> 
   </body>
  </html>
