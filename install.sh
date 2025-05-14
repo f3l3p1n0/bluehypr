@@ -58,11 +58,11 @@ function copia() {
     ((current_step++))
     update_progress
 
-    # Neofetch
-    print_step "Configurando Neofetch"
-    rm -rf "$HOME/.config/neofetch" >/dev/null 2>&1
-    mkdir -p "$HOME/.config/neofetch"
-    cp -r $1/dotfiles/neofetch/* "$HOME/.config/neofetch/"
+    # Fastfetch
+    print_step "Configurando Fastfetch"
+    rm -rf "$HOME/.config/fastfetch" >/dev/null 2>&1
+    mkdir -p "$HOME/.config/fastfetch"
+    cp -r $1/dotfiles/fastfetch/* "$HOME/.config/fastfetch/"
     echo -e " ${success_color}✓${reset_color}"
     ((current_step++))
     update_progress
