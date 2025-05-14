@@ -170,14 +170,6 @@ function copia() {
     ((current_step++))
     update_progress
 
-    # Swaylock
-    print_step "Configurando Swaylock"
-    mkdir -p "$HOME/.config/swaylock"
-    cp -r $1/dotfiles/swaylock/* "$HOME/.config/swaylock"
-    echo -e " ${success_color}✓${reset_color}"
-    ((current_step++))
-    update_progress
-
     # SDDM
     print_step "Configurando SDDM"
     sudo systemctl enable sddm >/dev/null 2>&1
