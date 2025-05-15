@@ -55,7 +55,7 @@
  
    <p>6️⃣ Deja que finalice la instalación. Posteriormente realizar un reboot.</p>
    <br>
-   <p>Te dejo por aquí un vídeo por si quieres realizar la instalación de una forma más guiada: https://youtu.be/LoMNQZXLZfI</p>
+   <p>Te dejo por aquí un vídeo por si quieres realizar la instalación de una forma más guiada: https://youtu.be/mq7TOKS-N1Q</p>
    <br>
    
    <h3>❌ Posibles problemas y soluciones</h3>
