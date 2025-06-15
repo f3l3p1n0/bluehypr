@@ -30,8 +30,8 @@
    <p>2️⃣ Instalar paquetes:</p>
 
    ```sh
-    yay -S hyprland kitty wl-clip-persist swaylock-effects sddm-theme-sugar-candy-git &&
-    sudo pacman -S rofi sddm zsh lsd bat zsh-syntax-highlighting zsh-autosuggestions swayidle xautolock hyprpaper waybar polkit polkit-gnome nemo pavucontrol slurp grim swappy neofetch megatools wget unzip
+    yay -S --noconfirm hyprland-git kitty wl-clip-persist sddm-theme-sugar-candy-git megatools xwaylandvideobridge eww wl-gammarelay &&
+    sudo pacman -S --noconfirm wofi sddm zsh lsd bat zsh-syntax-highlighting zsh-autosuggestions hypridle hyprpaper hyprlock waybar polkit polkit-gnome pavucontrol slurp grim swappy fastfetch wget unzip pamixer wl-clipboard
    ```
    ❗ Puedes instalar des del archivo requisitos.sh
    
