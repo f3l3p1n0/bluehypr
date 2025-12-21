@@ -149,7 +149,7 @@ function copia() {
     # Fuentes
     print_step "Descargando fuentes"
     mkdir -p "$1/dotfiles/fonts"
-    megadl --print-names https://mega.nz/file/GxFVSLLY#etuNc6QRrEl6wgl_ZatvomojDhkBTFPqlKS7ELk7KAM --path="$1/dotfiles/fonts/" >/dev/null 2>&1
+    megadl --print-names https://mega.nz/file/6YV1wIgT#P4i5Z_jmnZm1Qm4yd5gI6g-7YR8EupKVZY1edgJKLec --path="$1/dotfiles/fonts/" >/dev/null 2>&1
     echo -e " ${success_color}✓${reset_color}"
     ((current_step++))
     update_progress
